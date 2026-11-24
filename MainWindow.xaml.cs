@@ -2,7 +2,7 @@
 using System.Windows;
 using System.Windows.Data;
 
-namespace WPF_Adatkotes_Objektumlista
+namespace WPF_DataBinding_Objektumlista
 {
 	public partial class MainWindow : Window
 	{

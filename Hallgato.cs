@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace WPF_Adatkotes_Objektumlista
+namespace WPF_DataBinding_Objektumlista
 {
 	public class Hallgató
 	{

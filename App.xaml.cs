@@ -2,7 +2,7 @@
 using System.Data;
 using System.Windows;
 
-namespace WPF_Adatkotes_Objektumlista
+namespace WPF_DataBinding_Objektumlista
 {
 	/// <summary>
 	/// Interaction logic for App.xaml
