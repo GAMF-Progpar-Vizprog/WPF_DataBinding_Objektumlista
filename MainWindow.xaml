@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WPF_Adatkotes_Objektumlista"
         mc:Ignorable="d"
-        Title="MainWindow" Height="227" Width="493">
+        Title="Hallgatói adatok" Height="227" Width="493">
 	<!-- Itt csak jelezzük, hogy adatkötés lesz, az adatforrást a C# kódban adjuk meg -->
 	<Grid Name="grRács"  DataContext="{Binding}">
 		<Grid.ColumnDefinitions>
